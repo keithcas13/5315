@@ -1,14 +1,6 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "country": "Accountant",
-      "previous_club": "$170,750",
-      "position": "2011/07/25",
-      "date_of_birth": "Tokyo",
-      "age": "8422"
-    },
-    {
       "name": "Alisson Becker",
       "country": "Brazil",
       "previous_club": "AS Roma",
