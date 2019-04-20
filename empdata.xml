@@ -2,122 +2,122 @@
   <employees>
     <data>
       <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <country>Accountant</country>
+      <previous_club>$170,750</previous_club>
+      <position>2011/07/25</position>
+      <date_of_birth>Tokyo</date_of_birth>
+      <age>8422</age>
     </data>
     <data>
       <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <country>Integration Specialist</country>
+      <previous_club>$372,000</previous_club>
+      <position>2012/12/02</position>
+      <date_of_birth>New York</date_of_birth>
+      <age>4804</age>
     </data>
     <data>
       <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <country>Junior Technical Author</country>
+      <previous_club>$86,000</previous_club>
+      <position>2009/01/12</position>
+      <date_of_birth>San Francisco</date_of_birth>
+      <age>1562</age>
     </data>
     <data>
       <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <country>Accountant</country>
+      <previous_club>$162,700</previous_club>
+      <position>2008/11/28</position>
+      <date_of_birth>Tokyo</date_of_birth>
+      <age>5407</age>
     </data>
     <data>
       <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <country>Pre-Sales Support</country>
+      <previous_club>$106,450</previous_club>
+      <position>2011/12/12</position>
+      <date_of_birth>New York</date_of_birth>
+      <age>8330</age>
     </data>
     <data>
       <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <country>Regional Director</country>
+      <previous_club>$183,000</previous_club>
+      <position>2008/11/13</position>
+      <date_of_birth>Edinburgh</date_of_birth>
+      <age>6373</age>
     </data>
     <data>
       <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <country>Senior Javascript Developer</country>
+      <previous_club>$433,060</previous_club>
+      <position>2012/03/29</position>
+      <date_of_birth>Edinburgh</date_of_birth>
+      <age>6224</age>
     </data>
     <data>
       <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <country>Senior Marketing Designer</country>
+      <previous_club>$313,500</previous_club>
+      <position>2012/12/18</position>
+      <date_of_birth>London</date_of_birth>
+      <age>3597</age>
     </data>
     <data>
       <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <country>Javascript Developer</country>
+      <previous_club>$205,500</previous_club>
+      <position>2009/09/15</position>
+      <date_of_birth>San Francisco</date_of_birth>
+      <age>2360</age>
     </data>
     <data>
       <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <country>Personnel Lead</country>
+      <previous_club>$217,500</previous_club>
+      <position>2012/09/26</position>
+      <date_of_birth>Edinburgh</date_of_birth>
+      <age>2290</age>
     </data>
     <data>
       <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <country>Sales Assistant</country>
+      <previous_club>$137,500</previous_club>
+      <position>2012/08/06</position>
+      <date_of_birth>San Francisco</date_of_birth>
+      <age>9608</age>
     </data>
     <data>
       <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <country>Integration Specialist</country>
+      <previous_club>$327,900</previous_club>
+      <position>2010/10/14</position>
+      <date_of_birth>Tokyo</date_of_birth>
+      <age>6200</age>
     </data>
     <data>
       <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <country>Software Engineer</country>
+      <previous_club>$103,600</previous_club>
+      <position>2008/12/13</position>
+      <date_of_birth>Edinburgh</date_of_birth>
+      <age>1667</age>
     </data>
     <data>
       <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <country>date_of_birth Manager</country>
+      <previous_club>$90,560</previous_club>
+      <position>2008/12/19</position>
+      <date_of_birth>London</date_of_birth>
+      <age>3814</age>
     </data>
     <data>
       <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <country>Support Lead</country>
+      <previous_club>$342,000</previous_club>
+      <position>2013/03/03</position>
+      <date_of_birth>Edinburgh</date_of_birth>
+      <age>9497</age>
     </data>
   </employees>
